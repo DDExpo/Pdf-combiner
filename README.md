@@ -10,7 +10,7 @@
  
  <img src="https://github.com/DDExpo/Pdf-combiner/blob/main/media/example_pdf.jpg" width=25% height=25%>
 
- ![grab-landing-page]("https://github.com/DDExpo/Pdf-combiner/blob/main/media/showcase_gif-min")
+ ![grab-landing-page]("https://github.com/DDExpo/Pdf-combiner/blob/main/media/showcase_gif-min.gif")
 ## Instalation
 
 py -3.11 -m venv venv
