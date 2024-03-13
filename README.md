@@ -8,3 +8,11 @@
 ## Usage
  For example we have this pdf 
 ![alt text](https://github.com/[DDExpo]/[Pdf-combiner]/blob/[main]/media/example_pdf?raw=true)
+
+## Instalation
+
+py -3.11 -m venv venv
+
+pip install -r requirements.txt
+
+run main.py
