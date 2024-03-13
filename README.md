@@ -7,8 +7,7 @@
  Now, with my solution, we can combine 600 PDFs in just one minute (on my machine!), and it can handle various page sizes from A0 to A8, as well as any number of elements per page. Want 10 PDFs on every page? No problem! Want 15, 25, 50, or even 100? Still, no problem!
 ## Usage
  For example we have this pdf 
-![alt text](https://github.com/[DDExpo]/[Pdf-combiner]/blob/[main]/media/example_pdf.pdf?raw=true)
-
+![alt text](https://github.com/[DDExpo]/[Pdf-combiner]/blob/[main]/media/example_pdf.pdf)
 ## Instalation
 
 py -3.11 -m venv venv
