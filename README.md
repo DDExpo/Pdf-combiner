@@ -9,7 +9,7 @@
  For example we have this pdf and about 230 of them in archive
  
  <img src="https://github.com/DDExpo/Pdf-combiner/blob/main/media/example_pdf.jpg" width=25% height=25%>
-
+then we can combine them as shown below
  <img src="https://github.com/DDExpo/Pdf-combiner/blob/main/media/showcase_gif-min.gif" width=75% height=75%>
 ## Instalation
 
